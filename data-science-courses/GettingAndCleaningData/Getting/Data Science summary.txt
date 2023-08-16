@@ -1,0 +1,66 @@
+The toolbox:
+  W2
+    -Command Line
+    -Git
+    -Github
+    -Creating Github repo
+    -Git commands
+    -Markdown
+    -R Packages
+    -R tools
+  W3
+    -Data Sciencie Questions
+    -What is Data
+    -What is Big Data
+    -Experimental Design
+  W4
+    -
+R Programming:
+  W1 (data types in R, functions for reading and writing data)
+    -Setwd
+    -History of R
+    -Getting help
+    -R input and evaluation
+    -R data types: objects and attributes
+    -R data types: vectors and lists
+    -R data types: matrices
+    -R data types: factors
+    -R data types: missing values
+    -R data types: the names attribute
+    -R data types: summary
+    -Reading tabular data
+    -Reading large tables
+    -Textual data formats: dput() and dump()
+    -Connections
+    -Subsetting R objects: lists, matrices, subsetting with names, removing NA values, 
+  
+  W2 (control structures and functions)
+    -Control structures: if-else
+    -Control structures: for loops
+    -Control structures: while loops
+    -Control structures: repeat, next, break
+    -Functions
+    -Scoping rules: symbol binding
+    -Scoping rules: r scoping rules
+    -Scoping rules: optimization
+    -coding standars
+    -dates and times
+  
+  W3 (loop functions and debugging)
+    -Loop functions: lapply
+    -Loop functions: apply
+    -Loop functions: mapply
+    -Loop functions: tapply
+    -Loop functions: split
+    -Debugging tools: diagnostic, basics, using
+  
+  W4 (Simulation and profiling)
+    -Simulation: generating random numbers
+    -Simulation: simulating a linear model
+    -Simulation: random sampling
+    -R profiler
+
+Getting and cleaning data
+
+  W1
+    -

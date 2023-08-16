@@ -1,0 +1,6 @@
+Q1
+1 How many properties are worth $1,000,000 or more?
+	2076
+2 Use the data you loaded from Question 1. Consider the variable FES in the code book. Which of the "tidy data" principles does this variable violate?
+	Numeric values in tidy data can not represent categories.
+3 
